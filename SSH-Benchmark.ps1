@@ -1,6 +1,6 @@
-﻿$username = "root"
-$hostname = "Hostname"
-$password = "Veeam123"
+﻿$username = "user"
+$hostname = "server"
+$password = "password"
 $commandToRun = "ls /home"
 $iterations = 5
 $totalTime = 0

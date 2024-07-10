@@ -21,8 +21,10 @@ This PowerShell script tests the average SSH latency to a target machine by perf
 Replace $username, $hostname, and $password with your specific SSH credentials and server details. 
 
 ### Run
+
    ```powershell
    .\SSH-Benchmark.ps1
+   ```
 
 This script provides insights into the average SSH connection latency, useful for performance testing and benchmarking purposes.
 
